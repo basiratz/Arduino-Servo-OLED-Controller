@@ -39,3 +39,8 @@ Install the Adafruit libraries using Arduino IDE's Library Manager.
 ## How it works
 The Arduino reads the potentiometer's analog value, maps it to an angle between 0° and 180°, moves the servo, and displays the angle on the OLED.
 
+### Project Image and Video
+<img width="1600" height="1100" alt="servo-led" src="https://github.com/user-attachments/assets/785c2ab3-b7cb-4fa6-8d6e-55d55e61084c" />
+
+
+https://github.com/user-attachments/assets/8fc592f1-6459-4498-87b9-feecba6fcbab
